@@ -1,0 +1,20 @@
+I 'told', 'Polina', 'General', 'money', 'Frenchman', 'time'
+II 'play', 'stake', 'game', 'gulden', 'time'
+III 'General', 'Mlle.', 'Blanche'
+IV 'Frenchman', 'gulden'
+V 'love', 'money', 'kill', 'Frenchman'
+VI 'Baroness', 'General', 'good', 'Baron'
+VII 'General', 'well', 'Frenchman', 'Baron'
+VIII 'Mlle.', 'reason', 'Griers', 'Astley', 'Polina', 'General', 'Blanche', 'Baron', 'fact'
+IX 'Grandmother', 'good', 'Mlle.', 'Griers', 'Astley', 'Polina', 'General', 'thought', 'lady', 'Well'
+X 'turn', 'order', 'stake', 'chair', 'Potapitch', 'turned', 'landlord', 'lady', 'large', 'Grandmother',
+  'croupier', 'Casino', 'Alexis', 'table', 'General', 'staked'
+XI 'Grandmother', 'Alexis', 'Mlle.', 'Ivanovitch', 'Griers', 'Madame', 'General', 'lady', 'Blanche', 'gulden'
+XII 'Stake', 'stake', 'time', 'Potapitch', 'leave', 'turned', 'Madame', 'money', 'lady', 'Grandmother', 'Griers', 
+    'Moscow', 'Mlle.', 'gulden', 'length', 'Polina', 'General', 'well', 'cried', 'lost'
+XIII 'Poles', 'room', 'talking', 'hand', 'left', "o'clock", 'chair', 'Potapitch', 'money', 'lady', 'time', 
+     'Grandmother', 'Pole', 'Casino', 'Mlle.', 'Polina', 'General', 'lost'
+XIV 'remember', 'roulette', 'florins', 'thought', 'stake', 'time'
+XV 'General', 'francs', 'room', 'Mlle.', 'Griers', 'eyes', 'Astley', 'face', 'Paris', 'fifty', 'Polina', 
+   'moment', 'money', 'love', 'night'
+XVI 'francs', 'Paris', 'money', 'Blanche', 'General', 'time'
