@@ -5,7 +5,7 @@ import nltk
 
 
 #figure out some formal delimtiers of the txt
-document = open("/home/christoph/Dokumente/Dostoyevsky/thegambler.txt",'r')
+document = open("./raw/thegambler.txt",'r')
 lines = document.readlines()
 document.close()
 delimiter = [[],[],[],[],[],[],[],[],[]]
@@ -70,10 +70,6 @@ for d in dist:
 sentences = []
 for c in chapter:
     sentences.append(nltk.sent_tokenize(c))
-
-for s in sentences[1]:
-    if superwords[1][1] and superwords[1][2] and superwords[1][0]  in s:
-        print 'true'
 
 
 
